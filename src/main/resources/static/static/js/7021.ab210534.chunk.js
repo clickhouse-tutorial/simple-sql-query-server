@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkarco_design_pro=self.webpackChunkarco_design_pro||[]).push([[7021],{27021:function(e,n,t){t.r(n);var c=t(70782),a=t.n(c);(0,t(52239).Z)({setup:function(){a().mock(new RegExp("/api/chatList"),(function(){return a().mock({"data|4-6":[{"id|+1":1,username:"\u7528\u62377352772",content:"\u9a6c\u4e0a\u5c31\u5f00\u59cb\u4e86\uff0c\u597d\u6fc0\u52a8\uff01",time:"13:09:12","isCollect|2":!0}]}).data}))}})}}]);
+//# sourceMappingURL=7021.ab210534.chunk.js.map

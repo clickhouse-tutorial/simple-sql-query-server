@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkarco_design_pro=self.webpackChunkarco_design_pro||[]).push([[1280],{21280:function(e,s,t){t.r(s),s.default={"message-item":"message-item--Hf9az","message-item-footer":"message-item-footer--tNVS6","message-item-actions":"message-item-actions--BUcNF","message-item-actions-item":"message-item-actions-item--N9k1H","message-item-collected":"message-item-collected--Zkf8R","message-item-actions-collect":"message-item-actions-collect--FwoSz"}}}]);
+//# sourceMappingURL=1280.37903e4e.chunk.js.map

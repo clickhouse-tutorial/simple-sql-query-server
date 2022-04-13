@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/9506.c98f27ab.chunk.css","mappings":"AAAA,eACE,4BAA6B,CAC7B,YACF","sources":["pages/welcome/style/index.module.less"],"sourcesContent":[".header {\n  background: var(--color-bg-2);\n  padding: 20px;\n}\n"],"names":[],"sourceRoot":""}

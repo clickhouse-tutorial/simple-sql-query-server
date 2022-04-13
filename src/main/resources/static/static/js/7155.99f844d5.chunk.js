@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkarco_design_pro=self.webpackChunkarco_design_pro||[]).push([[7155],{17155:function(e,a,c){e.exports=c.p+"static/media/header-banner.fcb7b1aa6ce12d210c85.png"}}]);

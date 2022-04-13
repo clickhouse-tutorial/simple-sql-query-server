@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkarco_design_pro=self.webpackChunkarco_design_pro||[]).push([[8087],{98087:function(e,r,p){p.r(r),r.default={wrapper:"wrapper--NFNg0",result:"result--w4nm5","details-wrapper":"details-wrapper--M8kll"}}}]);
+//# sourceMappingURL=8087.c0468008.chunk.js.map

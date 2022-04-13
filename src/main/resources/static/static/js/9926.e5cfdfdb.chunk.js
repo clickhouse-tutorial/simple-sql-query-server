@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkarco_design_pro=self.webpackChunkarco_design_pro||[]).push([[9926],{9926:function(n,e,r){r.r(e);var o=r(70782),u=r.n(o);(0,r(52239).Z)({setup:function(){u().mock(new RegExp("/api/groupForm"),(function(){return!0}))}})}}]);
+//# sourceMappingURL=9926.e5cfdfdb.chunk.js.map
